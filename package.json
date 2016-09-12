@@ -1,6 +1,6 @@
 {
   "name": "wechat-iot",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "微信公共平台独立设备管理Node库",
   "main": "index.js",
   "scripts": {
